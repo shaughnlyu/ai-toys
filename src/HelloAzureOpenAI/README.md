@@ -1,6 +1,6 @@
 # HelloAzureOpenAI
 
-A simple Hello World project to test Azure OpenAI API
+A simple Hello World project to test Azure OpenAI API.
 
 ## Setup Environment
 

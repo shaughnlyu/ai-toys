@@ -1,6 +1,6 @@
 # HelloVertexAIGemini
 
-This is a sample project to demonstrate how to use the Vertex AI Gemini api.
+A simple Hello World project to test Vertex AI Gemini API.
 
 ## Setup Environment
 

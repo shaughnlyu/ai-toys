@@ -1,3 +1,12 @@
 # HelloSemanticKernel
 
-This is a sample project to demonstrate how to use the Semantic Kernel library.
+A simple Hello World project to test Semantic Kernel Framework.
+
+## Setup Environment
+
+Set environment variables in your system:
+
+```powershell
+[System.Environment]::SetEnvironmentVariable('AZURE_OPENAI_ENDPOINT', 'REPLACE_WITH_YOUR_ENDPOINT_HERE', 'User')
+[System.Environment]::SetEnvironmentVariable('AZURE_OPENAI_API_KEY', 'REPLACE_WITH_YOUR_KEY_VALUE_HERE', 'User')
+```

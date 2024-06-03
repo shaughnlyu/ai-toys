@@ -1,3 +1,7 @@
 # HelloOllama
 
-This is a sample project to demonstrate how to use the Ollama library.
+A simple Hello World project to test Ollama API.
+
+## Setup Environment
+
+Install the Ollama software locally and download the `phi3` model.
