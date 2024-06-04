@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloVertexAIGemini", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSemanticKernel", "src\HelloSemanticKernel\HelloSemanticKernel.csproj", "{3475C804-EC15-498D-98F8-E5D110619C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticKernelAndVertexAIGemini", "src\SemanticKernelAndVertexAIGemini\SemanticKernelAndVertexAIGemini.csproj", "{2A27243F-AA49-4C44-9C6E-808074EE8C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3475C804-EC15-498D-98F8-E5D110619C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3475C804-EC15-498D-98F8-E5D110619C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3475C804-EC15-498D-98F8-E5D110619C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A27243F-AA49-4C44-9C6E-808074EE8C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A27243F-AA49-4C44-9C6E-808074EE8C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A27243F-AA49-4C44-9C6E-808074EE8C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A27243F-AA49-4C44-9C6E-808074EE8C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +50,6 @@ Global
 		{447E9D47-E59C-4EBE-A227-81EC180F88F0} = {4A16D1F9-D3D7-4A4F-B26D-DD156C55FEBF}
 		{4A99015C-5E08-41A8-94F6-AF5D978E06C7} = {4A16D1F9-D3D7-4A4F-B26D-DD156C55FEBF}
 		{3475C804-EC15-498D-98F8-E5D110619C40} = {4A16D1F9-D3D7-4A4F-B26D-DD156C55FEBF}
+		{2A27243F-AA49-4C44-9C6E-808074EE8C9D} = {4A16D1F9-D3D7-4A4F-B26D-DD156C55FEBF}
 	EndGlobalSection
 EndGlobal
